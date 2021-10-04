@@ -1,0 +1,45 @@
+h1 {
+    color: rgb(51, 255, 0);
+}
+div {
+    color: rgba(57, 19, 161, 0.411);
+    font-size: large;
+    float: left;
+
+    
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto        ;
+  border-width: medium;
+  column-gap: 1pc;
+  row-gap: 1pc;
+  size: 230mm;
+}
+
+
+  .grid-item  {
+    border-width: medium;
+    border-style:   solid;
+    border-width:thin;
+   
+  }    
+  #catch3 {
+    color: rgb(228, 113, 19);
+    border-width: 7px;
+    border-style:   solid; 
+    width:70% ; 
+ font-size: xx-large;
+ font: xx-large;
+ font-weight: bold;
+ font-family:  monospace;
+
+  }
+  #catch2{
+    display: block;
+ 
+  }
+  #catch{
+  color: rgb(0, 0, 0);
+    font-size:  470%;
+  }
